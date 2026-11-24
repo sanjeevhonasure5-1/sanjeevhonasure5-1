@@ -1,2 +1,5 @@
 Hi, I'm Sanjeev Honasure, a second-year B.Tech Computer Science and Engineering student specializing in IoT, Cybersecurity, and Blockchain Technology at REVA University, Bengaluru. I am pursuing a career in ethical hacking and cybersecurity engineering, with a focus on low-level memory security, edge IoT defense, and adversarial AI protection. Alongside security research, I build full-stack web applications using React, Tailwind CSS, and Supabase, and enjoy working with C, C++, Python, and microcontroller hardware like ESP32 and Arduino.
 ## Tech Stack C, C++, Python, React, Tailwind CSS, Supabase, ESP32
+## Projects
+* **Shield AI:** Adversarial data poisoning prototype.
+* **Helios:** Household solar drying power tracking web app.
